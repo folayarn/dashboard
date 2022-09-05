@@ -1,0 +1,13 @@
+*{
+  font-family: "Source Sans Pro", sans-serif;
+  margin: 0; 
+}
+.appcontainer{
+  display: flex;
+  
+
+}
+.mainContent{
+  margin-left:30vw;
+  width:calc(100vw - 30vw );
+}
