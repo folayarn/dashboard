@@ -1,4 +1,4 @@
-import {AccountCircle, AccountBox, Loyalty, Flag,LineStyle, TrendingUp,Timeline, NotInterested, AttachMoney, Assessment, Message, Send} from "@material-ui/icons";
+import {AccountCircle, AccountBox, Loyalty, Flag,LineStyle, TrendingUp,Timeline, AttachMoney, Assessment, Message, Send} from "@material-ui/icons";
 import "./sidebar.css";
 
 export default function Sidebar() {
